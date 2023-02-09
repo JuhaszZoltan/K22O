@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace K22O
+namespace BukkMaraton2019
 {
     internal class Versenyzo
     {

@@ -1,5 +1,5 @@
 ﻿
-using K22O;
+using BukkMaraton2019;
 
 const int indulokSzama = 691;
 
